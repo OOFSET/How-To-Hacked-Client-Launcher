@@ -1,0 +1,12 @@
+How to make a hacked client launcher
+
+1. Start your normal Minecraft launcher
+2. Start any version of Minecraft
+3. Open up Process Hacker and find the Minecraft.exe process
+4. Right click on the javaw.exe process in the Minecraft.exe tree
+5. Go to the general tab in properties and copy and paste the FULL command line section
+6. Paste the command line section into a txt and save it as a .bat
+7. DONE.
+
+(Make sure your logged into an account on the launcher first because the command line needs a UUID to start the game)
+
